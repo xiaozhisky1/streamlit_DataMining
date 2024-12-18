@@ -1,8 +1,5 @@
 import streamlit as st
-import matplotlib.pyplot as plt
-import pandas as pd
-import numpy as np
-import seaborn as sns
+
 
 st.markdown("# 销售量分析 📈")
 st.sidebar.markdown("# 销售量分析 📈")
